@@ -6,4 +6,7 @@
 
 
 # awesome dotnet
-https://github.com/lotosbin/lotosbin.github.io/issues?q=is%3Aissue+is%3Aopen+label%3Aawesome-dotnet
+https://github.com/lotosbin/lotosbin.github.io/issues?q=is%3Aissue+is%3Aopen+label%3Aawesome-dotnet+sort%3Areactions-%2B1-desc
+
+# awesome mac
+https://github.com/lotosbin/lotosbin.github.io/issues?q=is%3Aissue+is%3Aopen+label%3Aawesome-mac+sort%3Areactions-%2B1-desc
