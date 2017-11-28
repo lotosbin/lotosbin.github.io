@@ -10,3 +10,7 @@ https://github.com/lotosbin/lotosbin.github.io/issues?q=is%3Aissue+is%3Aopen+lab
 
 # awesome mac
 https://github.com/lotosbin/lotosbin.github.io/issues?q=is%3Aissue+is%3Aopen+label%3Aawesome-mac+sort%3Areactions-%2B1-desc
+
+# Donate
+## 支持作者，再接再厉，欢迎捐赠
+![|small](./donate/alipay.png) ![](./donate/wechat.JPG)
