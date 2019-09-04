@@ -25,6 +25,7 @@ deploy:
   on:
     branch: gh-pages
 ```
+- 设置 Travis Cron Jobs ，每日自动构建 gh-pages 分支
 
 # TODO
 - [] issue更新自动触发travis构建
