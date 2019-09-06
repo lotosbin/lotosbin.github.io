@@ -1,12 +1,9 @@
-name: CI
+name: GenerateBlog
 
-on: 
- schedule:
-  - cron: */5 * * * *
-
+on: [issues]
+ 
 jobs:
   build:
-
     runs-on: ubuntu-latest
     strategy:
       matrix:
