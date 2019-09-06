@@ -1,17 +1,25 @@
 name: CI
 
-on: [push]
+on: 
+  push:
+    branches:
+      - master
 
 jobs:
   build:
 
     runs-on: ubuntu-latest
-    
+    strategy:
+      matrix:
+        node_version: [10]
     steps:
     - uses: actions/checkout@v1
     - name: Run a one-line script
-      run: echo Hello, world!
+      run: npx github:lotosbin/issue2blog -u lotosbin -r lotosbin.github.io
     - name: Run a multi-line script
       run: |
         echo Add other actions to build,
         echo test, and deploy your project.
+        git add _posts/*
+        git commit -m 'feat: build from github actions'
+        git push
