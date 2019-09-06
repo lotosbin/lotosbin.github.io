@@ -22,6 +22,7 @@ jobs:
         echo test, and deploy your project.
         git config --global user.email "lotosbin+githubaction@gmail.com"
         git config --global user.name "githubaction"
+        git checkout master
         git add _posts/*
         git commit -m 'feat: build from github actions'
         git push
