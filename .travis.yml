@@ -1,6 +1,6 @@
 language: node_js
 node_js:
-script: node generate.js
+script: npx github:lotosbin/issue2blog -u lotosbin -r lotosbin.github.io 
 # after_success:
   # - .travis/push.sh
 branches:
