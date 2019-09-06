@@ -12,6 +12,13 @@ jobs:
     - uses: actions/checkout@v1
     - name: Run a one-line script
       run: npx github:lotosbin/issue2blog -u lotosbin -r lotosbin.github.io
+    - name: git commit
+      run: |
+        git config user.name "githubaction"
+        git config user.email "lotosbin+githubaction@gmail.com"
+        git checkout master
+        git add _posts/*
+        git commit -m "feat: github action generate blog"
     - uses: lotosbin/github-push-action@master
       with:
         github_user: lotosbin
