@@ -1,6 +1,6 @@
 ---
   commentId: 481949700
-  ---
+---
     # 使用github issue创建blog 
  # 原因
 - 使用 github issue + mardkown 可以方便的写作博客

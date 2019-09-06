@@ -1,6 +1,6 @@
 ---
   commentId: 489790152
-  ---
+---
     # 使用github issue comments作为评论 
  # 原因
 # 使用

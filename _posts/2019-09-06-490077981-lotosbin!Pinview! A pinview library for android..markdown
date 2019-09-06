@@ -1,6 +1,6 @@
 ---
   commentId: 490077981
-  ---
+---
     # lotosbin/Pinview: A pinview library for android. 
  一个PIN码组件
 https://github.com/lotosbin/Pinview

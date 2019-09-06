@@ -1,7 +1,6 @@
-
 ---
   commentId: 490079259
-  ---
+---
     # Assistant X - Chrome插件 使用github issue收藏网站 
  https://chrome.google.com/webstore/detail/assistant-x/hmjkgjcbbehfpleekbnomgiaoebcmllc
 # 使用
