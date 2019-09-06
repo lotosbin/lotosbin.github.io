@@ -1,7 +1,14 @@
-# 使用github issue comments作为评论 
+---
+commentId: 489790152
+---
+  # 使用github issue comments作为评论 
  # 原因
 # 使用
 # 步骤
 参考 https://github.com/gitalk/gitalk
 # TODO
 # REF
+
+  
+  [view on github](https://github.com/lotosbin/lotosbin.github.io/issues/16)
+  

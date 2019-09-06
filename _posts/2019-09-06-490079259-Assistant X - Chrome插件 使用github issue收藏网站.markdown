@@ -8,3 +8,7 @@ commentId: 490079259
 - 在Link下填写创建issue的模版链接，例如https://github.com/lotosbin/lotosbin.github.io/issues/new?title={title}&body={url}
 - 打开想要收藏的网站，点击扩展图标，点击Link下的create github issue
 <img width="874" alt="Screen Shot 2019-09-06 at 09 03 07" src="https://user-images.githubusercontent.com/221294/64393716-56fa9000-d085-11e9-955a-0ef3e17c8e86.png">
+
+  
+  [view on github](https://github.com/lotosbin/lotosbin.github.io/issues/22)
+  

@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/lotosbin/lotosbin.github.io#readme",
   "dependencies": {
+    "filenamify": "^4.1.0",
     "moment": "^2.24.0",
     "request": "^2.88.0"
   }

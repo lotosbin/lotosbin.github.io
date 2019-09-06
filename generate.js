@@ -17,15 +17,20 @@ async function getIssues() {
     })
   })
 }
+const filenamify = require('filenamify');
+
 async function issueToArticle(issue) {
   var moment = require('moment');
-  var fileName = `${moment(issue.created_at).format('YYYY-MM-DD')}-${issue.id}-${issue.title}`
+  var fileName = filenamify(`${moment(issue.created_at).format('YYYY-MM-DD')}-${issue.id}-${issue.title}`)
   var title = issue.title;
   var body = issue.body;
   var content = `---
 commentId: ${issue.id}
 ---
-  # ${title} \r\n ${body}`
+  # ${title} \r\n ${body}
+  
+  [view on github](${issue.html_url})
+  `
   return { fileName, content }
 }
 const fs = require('fs');

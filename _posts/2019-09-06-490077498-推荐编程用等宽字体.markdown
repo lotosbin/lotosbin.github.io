@@ -1,0 +1,9 @@
+---
+commentId: 490077498
+---
+  # 推荐编程用等宽字体 
+ tonsky/FiraCode: Monospaced font with programming ligatures
+https://github.com/tonsky/FiraCode
+  
+  [view on github](https://github.com/lotosbin/lotosbin.github.io/issues/20)
+  

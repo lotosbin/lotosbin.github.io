@@ -1,7 +1,7 @@
 ---
 commentId: 485018807
 ---
-# 使用Travis自动将github issue转换成blog并发布 
+  # 使用Travis自动将github issue转换成blog并发布 
  # 原因
 
 # 使用
@@ -35,3 +35,7 @@ deploy:
 # 参考[ref]:
 - https://docs.travis-ci.com/user/deployment/pages/
 - http://www.ruanyifeng.com/blog/2017/12/travis_ci_tutorial.html
+
+  
+  [view on github](https://github.com/lotosbin/lotosbin.github.io/issues/15)
+  
