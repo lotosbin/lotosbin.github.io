@@ -12,6 +12,8 @@ jobs:
     - uses: actions/checkout@v1
     - name: Run a one-line script
       run: npx github:lotosbin/issue2blog -u lotosbin -r lotosbin.github.io
-    - uses: ad-m/github-push-action@master
+    - uses: lotosbin/github-push-action@master
       with:
+        github_user: lotosbin
+        github_token: ${{ secrets.GITHUB_TOKEN }}
         repo-token: ${{ secrets.GITHUB_TOKEN }}
