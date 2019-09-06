@@ -22,7 +22,10 @@ async function issueToArticle(issue) {
   var fileName = `${moment(issue.created_at).format('YYYY-MM-DD')}-${issue.id}-${issue.title}`
   var title = issue.title;
   var body = issue.body;
-  var content = `# ${title} \r\n ${body}`
+  var content = `---
+commentId: ${issue.id}
+---
+  # ${title} \r\n ${body}`
   return { fileName, content }
 }
 const fs = require('fs');

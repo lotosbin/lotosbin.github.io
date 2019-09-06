@@ -1,3 +1,6 @@
+---
+commentId: 485018807
+---
 # 使用Travis自动将github issue转换成blog并发布 
  # 原因
 
