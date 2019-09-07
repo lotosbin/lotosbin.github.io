@@ -1,9 +1,0 @@
----
-  commentId: 490246853
----
-    # lotosbin/github-push-action:  
- GitHub actions to push back to repository eg. updated code
-https://github.com/lotosbin/github-push-action?organization=lotosbin&organization=lotosbin
-    
-    [view on github](https://github.com/lotosbin/lotosbin.github.io/issues/31)
-    
