@@ -4,24 +4,18 @@ https://lotosbin.github.io
 [![Join the chat at https://gitter.im/lotosbin/lotosbin.github.io](https://badges.gitter.im/lotosbin/lotosbin.github.io.svg)](https://gitter.im/lotosbin/lotosbin.github.io?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## remote work
-### remote work article
-https://github.com/lotosbin/lotosbin.github.io/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aremote-work-article+
+[remote work article(点击查看)](https://github.com/lotosbin/lotosbin.github.io/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aremote-work-article+sort%3Areactions-%2B1-desc)
 
-### remote work team
-https://github.com/lotosbin/lotosbin.github.io/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aremote-work-team+
+[remote work team(点击查看)](https://github.com/lotosbin/lotosbin.github.io/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aremote-work-team+sort%3Areactions-%2B1-desc)
 
-### remote work job
-https://github.com/lotosbin/lotosbin.github.io/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aremote-work-job+
+[remote work job(点击查看)](https://github.com/lotosbin/lotosbin.github.io/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aremote-work-job+sort%3Areactions-%2B1-desc)
 
-### remote work site
-https://github.com/lotosbin/lotosbin.github.io/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aremote-work-site+
+[remote work site(点击查看)](https://github.com/lotosbin/lotosbin.github.io/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aremote-work-site+sort%3Areactions-%2B1-desc)
 
 ## awesome
-### awesome dotnet
-https://github.com/lotosbin/lotosbin.github.io/issues?q=is%3Aissue+is%3Aopen+label%3Aawesome-dotnet+sort%3Areactions-%2B1-desc
+[awesome dotnet(点击查看)](https://github.com/lotosbin/lotosbin.github.io/issues?q=is%3Aissue+is%3Aopen+label%3Aawesome-dotnet+sort%3Areactions-%2B1-desc)
 
-### awesome mac
-https://github.com/lotosbin/lotosbin.github.io/issues?q=is%3Aissue+is%3Aopen+label%3Aawesome-mac+sort%3Areactions-%2B1-desc
+[awesome mac(点击查看)](https://github.com/lotosbin/lotosbin.github.io/issues?q=is%3Aissue+is%3Aopen+label%3Aawesome-mac+sort%3Areactions-%2B1-desc)
 
 ## Donate
 ### 支持作者，再接再厉，欢迎捐赠
