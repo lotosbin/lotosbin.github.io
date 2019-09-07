@@ -1,6 +1,6 @@
 ---
-  title: 使用GitHub workflow自动将github issue转换成blog并发布
-  commentId: 490085522
+title: 使用GitHub workflow自动将github issue转换成blog并发布
+commentId: 490085522
 ---
 # 使用GitHub workflow自动将github issue转换成blog并发布
 

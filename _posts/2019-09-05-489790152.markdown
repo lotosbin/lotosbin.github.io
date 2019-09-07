@@ -1,6 +1,6 @@
 ---
-  title: 使用github issue comments作为评论
-  commentId: 489790152
+title: 使用github issue comments作为评论
+commentId: 489790152
 ---
 # 使用github issue comments作为评论
 

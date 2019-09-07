@@ -1,6 +1,6 @@
 ---
-  title: lotosbin/Pinview: A pinview library for android.
-  commentId: 490077981
+title: lotosbin/Pinview: A pinview library for android.
+commentId: 490077981
 ---
 # lotosbin/Pinview: A pinview library for android.
 
