@@ -1,5 +1,5 @@
 ---
-title: 使用Travis自动将github issue转换成blog并发布
+title: "使用Travis自动将github issue转换成blog并发布"
 commentId: 485018807
 ---
 # 使用Travis自动将github issue转换成blog并发布

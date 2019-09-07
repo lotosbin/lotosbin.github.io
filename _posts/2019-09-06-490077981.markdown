@@ -1,5 +1,5 @@
 ---
-title: lotosbin/Pinview: A pinview library for android.
+title: "lotosbin/Pinview: A pinview library for android."
 commentId: 490077981
 ---
 # lotosbin/Pinview: A pinview library for android.
