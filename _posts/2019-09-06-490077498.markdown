@@ -5,7 +5,9 @@ tags: published
 ---
 
 tonsky/FiraCode: Monospaced font with programming ligatures
-https://github.com/tonsky/FiraCode
+[https://github.com/tonsky/FiraCode](https://github.com/tonsky/FiraCode)
+
+![preview](https://raw.githubusercontent.com/tonsky/FiraCode/master/showcases/fira_code_logo.svg)
     
 [查看原文](https://github.com/lotosbin/lotosbin.github.io/issues/20)
     
