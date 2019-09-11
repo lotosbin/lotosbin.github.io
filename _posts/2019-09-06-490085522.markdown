@@ -1,8 +1,8 @@
 ---
 title: "使用GitHub workflow自动将github issue转换成blog并发布"
 commentId: 490085522
+tags: published
 ---
-# 使用GitHub workflow自动将github issue转换成blog并发布
 
 # 原因
 当jekyll在master 分支时 ，travis的自动发布没有找到解决方案
@@ -14,5 +14,5 @@ commentId: 490085522
 # ref
 - https://github.com/marketplace/actions/jekyll-action
     
-[view on github](https://github.com/lotosbin/lotosbin.github.io/issues/23)
+[查看原文](https://github.com/lotosbin/lotosbin.github.io/issues/23)
     
