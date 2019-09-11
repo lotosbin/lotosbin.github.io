@@ -1,0 +1,10 @@
+---
+title: "关于 GitIssue - GitIssue， 是 『Github Issue Blog Platform』 的简写。"
+commentId: 491976554
+---
+# 关于 GitIssue - GitIssue， 是 『Github Issue Blog Platform』 的简写。
+
+https://gitissue.com/about
+    
+[view on github](https://github.com/lotosbin/lotosbin.github.io/issues/74)
+    
