@@ -5,6 +5,10 @@ commentId: 489790152
 # 使用github issue comments作为评论
 
 # 原因
+# 选择
+- gitment(测试集成失败）
+- gitalk(在用)
+- GitIssue 是 『Github Issue Blog Platform』 的简写。
 # 使用
 # 步骤
 参考 https://github.com/gitalk/gitalk
