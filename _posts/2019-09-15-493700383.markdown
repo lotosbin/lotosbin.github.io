@@ -1,0 +1,10 @@
+---
+title: "i5ting/yrm: YARN registry manager, fast switch between different registries: npm, cnpm, nj, taobao"
+commentId: 493700383
+tags: published
+---
+
+https://github.com/i5ting/yrm
+    
+[查看原文](https://github.com/lotosbin/lotosbin.github.io/issues/82)
+    
