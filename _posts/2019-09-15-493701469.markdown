@@ -1,0 +1,10 @@
+---
+title: "yarn 国内加速，修改镜像源 | Laravel China 社区"
+commentId: 493701469
+tags: published
+---
+
+https://learnku.com/articles/15976/yarn-accelerate-and-modify-mirror-source-in-china
+    
+[查看原文](https://github.com/lotosbin/lotosbin.github.io/issues/83)
+    
