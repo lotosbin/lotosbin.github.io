@@ -1,0 +1,10 @@
+---
+title: "GitHub Actions 入门教程 - 阮一峰的网络日志"
+commentId: 495117183
+tags: published
+---
+
+http://www.ruanyifeng.com/blog/2019/09/getting-started-with-github-actions.html
+    
+[查看原文](https://github.com/lotosbin/lotosbin.github.io/issues/92)
+    
