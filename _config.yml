@@ -19,3 +19,7 @@ github_username:  lotosbin
 
 # Build settings
 markdown: kramdown
+
+gems: [jekyll-paginate]
+paginate: 6
+paginate_path: "page/:num/"
