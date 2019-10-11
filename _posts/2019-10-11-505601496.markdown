@@ -1,0 +1,10 @@
+---
+title: "Commit message 和 Change log 编写指南 - 阮一峰的网络日志"
+commentId: 505601496
+tags: published
+---
+
+http://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html
+    
+[查看原文](https://github.com/lotosbin/lotosbin.github.io/issues/110)
+    
