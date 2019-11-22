@@ -1,0 +1,10 @@
+---
+title: "tonsky/FiraCode: Monospaced font with programming ligatures "
+commentId: 526929370
+tags: published
+---
+
+https://github.com/tonsky/FiraCode
+    
+[查看原文](https://github.com/lotosbin/lotosbin.github.io/issues/118)
+    
