@@ -1,0 +1,10 @@
+---
+title: "科技爱好者周刊：第 83 期 - 阮一峰的网络日志"
+commentId: 529671113
+tags: published
+---
+
+http://www.ruanyifeng.com/blog/2019/11/weekly-issue-83.html
+    
+[查看原文](https://github.com/lotosbin/lotosbin.github.io/issues/119)
+    
