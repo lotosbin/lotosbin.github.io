@@ -1,0 +1,10 @@
+---
+title: "有没有将写的文章同时发布到简书、掘金、思否之类的平台上的工具或者方案？ - V2EX"
+commentId: 534369984
+tags: published
+---
+
+https://v2ex.com/t/626467#reply3
+    
+[查看原文](https://github.com/lotosbin/lotosbin.github.io/issues/127)
+    
