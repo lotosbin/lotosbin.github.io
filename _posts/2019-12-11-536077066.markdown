@@ -1,0 +1,10 @@
+---
+title: "因为兴趣，我也造了一个 ProductHunt 中文版——创造者日报 - V2EX"
+commentId: 536077066
+tags: published
+---
+
+https://v2ex.com/t/611000
+    
+[查看原文](https://github.com/lotosbin/lotosbin.github.io/issues/130)
+    
