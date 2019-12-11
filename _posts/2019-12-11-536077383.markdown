@@ -1,0 +1,10 @@
+---
+title: "[简单天气] 不佳天气主动推送提醒 - V2EX"
+commentId: 536077383
+tags: published
+---
+
+https://v2ex.com/t/627368#reply49
+    
+[查看原文](https://github.com/lotosbin/lotosbin.github.io/issues/131)
+    
