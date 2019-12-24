@@ -17,6 +17,7 @@ jobs:
         git config user.name "githubaction"
         git config user.email "lotosbin+githubaction@gmail.com"
         git checkout master
+        git pull --ff
         git add _posts/*
         git commit -m "feat: github action generate blog"
     - uses: lotosbin/github-push-action@master
