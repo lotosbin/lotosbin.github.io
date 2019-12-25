@@ -1,0 +1,10 @@
+---
+title: "我想要 AOP — 使用 AOP 分离关注点"
+commentId: 542226032
+tags: published
+---
+
+https://keelii.com/2019/07/06/i-want-my-aop-cn/
+    
+[查看原文](https://github.com/lotosbin/lotosbin.github.io/issues/143)
+    
