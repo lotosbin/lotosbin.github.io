@@ -1,0 +1,10 @@
+---
+title: "jiahaog/nativefier: Make any web page a desktop application"
+commentId: 542399928
+tags: published
+---
+
+https://github.com/jiahaog/nativefier
+    
+[查看原文](https://github.com/lotosbin/lotosbin.github.io/issues/155)
+    
