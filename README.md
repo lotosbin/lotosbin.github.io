@@ -17,6 +17,9 @@ https://lotosbin.github.io
 
 [awesome mac(点击查看)](https://github.com/lotosbin/lotosbin.github.io/issues?q=is%3Aissue+is%3Aopen+label%3Aawesome-mac+sort%3Areactions-%2B1-desc)
 
+## Tools
+google chrome extension: [assistant-x](https://chrome.google.com/webstore/detail/assistant-x/hmjkgjcbbehfpleekbnomgiaoebcmllc) 可以以当前页面的标题和链接创建指定github仓库的issue，方便收藏网站
+
 ## Donate
 ### 支持作者，再接再厉，欢迎捐赠
 ![|small](./donate/alipay.png) ![](./donate/wechat.JPG)
