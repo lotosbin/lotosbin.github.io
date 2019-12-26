@@ -18,7 +18,8 @@ https://lotosbin.github.io
 [awesome mac(点击查看)](https://github.com/lotosbin/lotosbin.github.io/issues?q=is%3Aissue+is%3Aopen+label%3Aawesome-mac+sort%3Areactions-%2B1-desc)
 
 ## Tools
-google chrome extension: [assistant-x](https://chrome.google.com/webstore/detail/assistant-x/hmjkgjcbbehfpleekbnomgiaoebcmllc) 可以以当前页面的标题和链接创建指定github仓库的issue，方便收藏网站
+- [assistant-x](https://chrome.google.com/webstore/detail/assistant-x/hmjkgjcbbehfpleekbnomgiaoebcmllc) 谷歌浏览器插件可以以当前页面的标题和链接创建指定github仓库的issue，方便收藏网站
+- [lotosbin/issue2blog](https://github.com/lotosbin/issue2blog) transform github issues to jekyll blog
 
 ## Donate
 ### 支持作者，再接再厉，欢迎捐赠
