@@ -1,0 +1,10 @@
+---
+title: "guanpengchn/awesome-books: 开发者推荐阅读的书籍"
+commentId: 544307192
+tags: published
+---
+
+https://github.com/guanpengchn/awesome-books
+    
+[查看原文](https://github.com/lotosbin/lotosbin.github.io/issues/159)
+    
