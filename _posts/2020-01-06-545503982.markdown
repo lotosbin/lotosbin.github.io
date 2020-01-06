@@ -1,0 +1,11 @@
+---
+title: "首页 | Server酱"
+commentId: 545503982
+tags: published
+---
+
+http://sc.ftqq.com/3.version
+「Server酱」，英文名「ServerChan」，是一款「程序员」和「服务器」之间的通信软件。
+    
+[查看原文](https://github.com/lotosbin/lotosbin.github.io/issues/161)
+    
