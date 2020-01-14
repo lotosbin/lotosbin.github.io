@@ -1,0 +1,10 @@
+---
+title: "关于 Nuxt.js - NuxtJS"
+commentId: 549287264
+tags: published
+---
+
+https://zh.nuxtjs.org/guide
+    
+[查看原文](https://github.com/lotosbin/lotosbin.github.io/issues/166)
+    
