@@ -1,0 +1,10 @@
+---
+title: "还在为monorepo掉头发吗？Yarn 2.0了解一下 - 掘金"
+commentId: 566613515
+tags: published
+---
+
+https://juejin.im/post/5e49e3026fb9a07cd614ca91
+    
+[查看原文](https://github.com/lotosbin/lotosbin.github.io/issues/173)
+    
