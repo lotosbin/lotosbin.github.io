@@ -1,0 +1,10 @@
+---
+title: "Blurred - 降低非活动窗口亮度以减少干扰，开源专心工具[macOS] - 小众软件"
+commentId: 574428050
+tags: published
+---
+
+https://www.appinn.com/blurred-for-macos/
+    
+[查看原文](https://github.com/lotosbin/lotosbin.github.io/issues/175)
+    
