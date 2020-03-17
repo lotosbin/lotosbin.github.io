@@ -6,5 +6,5 @@ tags: published
 
 https://pock.dev/
     
-[查看原文](https://github.com/lotosbin/lotosbin.github.io/issues/154)
+[查看原文](https://pock.dev/)
     

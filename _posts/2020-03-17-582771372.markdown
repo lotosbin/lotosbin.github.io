@@ -6,5 +6,5 @@ tags: published
 
 https://phodal.github.io/clean-frontend/
     
-[查看原文](https://github.com/lotosbin/lotosbin.github.io/issues/183)
+[查看原文](https://phodal.github.io/clean-frontend/)
     

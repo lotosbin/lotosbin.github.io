@@ -6,5 +6,5 @@ tags: published
 
 https://github.com/guanpengchn/awesome-books
     
-[查看原文](https://github.com/lotosbin/lotosbin.github.io/issues/159)
+[查看原文](https://github.com/guanpengchn/awesome-books)
     

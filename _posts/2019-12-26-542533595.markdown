@@ -6,5 +6,5 @@ tags: published
 
 https://indiehackers.net/
     
-[查看原文](https://github.com/lotosbin/lotosbin.github.io/issues/156)
+[查看原文](https://indiehackers.net/)
     

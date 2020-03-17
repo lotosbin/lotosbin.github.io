@@ -6,5 +6,5 @@ tags: published
 
 https://github.com/rock-app/fabu.love
     
-[查看原文](https://github.com/lotosbin/lotosbin.github.io/issues/163)
+[查看原文](https://github.com/rock-app/fabu.love)
     

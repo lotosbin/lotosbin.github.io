@@ -6,5 +6,5 @@ tags: published
 
 http://www.csie.ntnu.edu.tw/~u91029/index.html
     
-[查看原文](https://github.com/lotosbin/lotosbin.github.io/issues/151)
+[查看原文](http://www.csie.ntnu.edu.tw/~u91029/index.html)
     

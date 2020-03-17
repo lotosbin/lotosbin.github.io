@@ -6,5 +6,5 @@ tags: published
 
 https://github.com/jiahaog/nativefier
     
-[查看原文](https://github.com/lotosbin/lotosbin.github.io/issues/155)
+[查看原文](https://github.com/jiahaog/nativefier)
     

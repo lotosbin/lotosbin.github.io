@@ -7,5 +7,5 @@ tags: published
 http://sc.ftqq.com/3.version
 「Server酱」，英文名「ServerChan」，是一款「程序员」和「服务器」之间的通信软件。
     
-[查看原文](https://github.com/lotosbin/lotosbin.github.io/issues/161)
+[查看原文](http://sc.ftqq.com/3.version%E3%80%8CServer%E9%85%B1%E3%80%8D%EF%BC%8C%E8%8B%B1%E6%96%87%E5%90%8D%E3%80%8CServerChan%E3%80%8D%EF%BC%8C%E6%98%AF%E4%B8%80%E6%AC%BE%E3%80%8C%E7%A8%8B%E5%BA%8F%E5%91%98%E3%80%8D%E5%92%8C%E3%80%8C%E6%9C%8D%E5%8A%A1%E5%99%A8%E3%80%8D%E4%B9%8B%E9%97%B4%E7%9A%84%E9%80%9A%E4%BF%A1%E8%BD%AF%E4%BB%B6%E3%80%82)
     

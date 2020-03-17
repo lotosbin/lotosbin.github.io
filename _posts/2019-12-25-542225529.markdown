@@ -6,5 +6,5 @@ tags: published
 
 https://keelii.com/2019/07/13/a-real-programmer-fabrice-bellard/
     
-[查看原文](https://github.com/lotosbin/lotosbin.github.io/issues/142)
+[查看原文](https://keelii.com/2019/07/13/a-real-programmer-fabrice-bellard/)
     
