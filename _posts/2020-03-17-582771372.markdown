@@ -1,0 +1,10 @@
+---
+title: "Clean Frontend Architecture：整洁前端架构 | clean-frontend"
+commentId: 582771372
+tags: published
+---
+
+https://phodal.github.io/clean-frontend/
+    
+[查看原文](https://github.com/lotosbin/lotosbin.github.io/issues/183)
+    
