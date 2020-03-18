@@ -2,6 +2,8 @@
 title: "腾讯开源内部跨端框架 Hippy，打磨三年，日均 PV 过亿"
 commentId: 542233289
 tags: published
+original_link: "https://mp.weixin.qq.com/s/Jo9wjXqqrLg5uQK7u8dHtg"
+summary: "[查看原文](https://mp.weixin.qq.com/s/Jo9wjXqqrLg5uQK7u8dHtg)"
 ---
 
 https://mp.weixin.qq.com/s/Jo9wjXqqrLg5uQK7u8dHtg

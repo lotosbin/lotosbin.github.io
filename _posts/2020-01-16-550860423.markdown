@@ -2,6 +2,8 @@
 title: "JetBrains Mono: A free and open source typeface for developers | JetBrains: Developer Tools for Professionals and Teams"
 commentId: 550860423
 tags: published
+original_link: "https://www.jetbrains.com/lp/mono/#introJetBrains%20%E7%AD%89%E5%AF%AC%E5%AD%97%E9%AB%94"
+summary: "[查看原文](https://www.jetbrains.com/lp/mono/#introJetBrains%20%E7%AD%89%E5%AF%AC%E5%AD%97%E9%AB%94)"
 ---
 
 https://www.jetbrains.com/lp/mono/#intro

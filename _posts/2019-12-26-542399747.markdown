@@ -2,6 +2,8 @@
 title: "Pock: Display macOS Dock in Touch Bar"
 commentId: 542399747
 tags: published
+original_link: "https://pock.dev/"
+summary: "[查看原文](https://pock.dev/)"
 ---
 
 https://pock.dev/

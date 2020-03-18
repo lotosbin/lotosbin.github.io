@@ -2,6 +2,8 @@
 title: "我想要 AOP — 使用 AOP 分离关注点"
 commentId: 542226032
 tags: published
+original_link: "https://keelii.com/2019/07/06/i-want-my-aop-cn/"
+summary: "[查看原文](https://keelii.com/2019/07/06/i-want-my-aop-cn/)"
 ---
 
 https://keelii.com/2019/07/06/i-want-my-aop-cn/

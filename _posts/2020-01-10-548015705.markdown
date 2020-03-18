@@ -2,6 +2,8 @@
 title: "MikuTools - 一个轻量的工具集合"
 commentId: 548015705
 tags: published
+original_link: "https://tools.miku.ac/"
+summary: "[查看原文](https://tools.miku.ac/)"
 ---
 
 https://tools.miku.ac/

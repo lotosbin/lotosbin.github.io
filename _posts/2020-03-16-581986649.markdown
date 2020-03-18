@@ -2,6 +2,8 @@
 title: "GitHub-Chart - Chrome 网上应用店"
 commentId: 581986649
 tags: published
+original_link: "https://chrome.google.com/webstore/detail/github-chart/apaldppjjcjgjddfobajdclccgkbkkje/related"
+summary: "[查看原文](https://chrome.google.com/webstore/detail/github-chart/apaldppjjcjgjddfobajdclccgkbkkje/related)"
 ---
 
 https://chrome.google.com/webstore/detail/github-chart/apaldppjjcjgjddfobajdclccgkbkkje/related

@@ -2,6 +2,8 @@
 title: "rock-app/fabu.love: 应用发布平台类似fir.im/蒲公英,支持检查更新,灰度发布等等.Demo地址：https://fabu.apppills.com/"
 commentId: 548515373
 tags: published
+original_link: "https://github.com/rock-app/fabu.love"
+summary: "[查看原文](https://github.com/rock-app/fabu.love)"
 ---
 
 https://github.com/rock-app/fabu.love

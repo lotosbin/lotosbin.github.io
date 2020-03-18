@@ -2,6 +2,8 @@
 title: "法布里斯·贝拉 — 一个真正的程序员"
 commentId: 542225529
 tags: published
+original_link: "https://keelii.com/2019/07/13/a-real-programmer-fabrice-bellard/"
+summary: "[查看原文](https://keelii.com/2019/07/13/a-real-programmer-fabrice-bellard/)"
 ---
 
 https://keelii.com/2019/07/13/a-real-programmer-fabrice-bellard/

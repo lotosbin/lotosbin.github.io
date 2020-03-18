@@ -2,6 +2,8 @@
 title: "关于 Nuxt.js - NuxtJS"
 commentId: 549287264
 tags: published
+original_link: "https://zh.nuxtjs.org/guide"
+summary: "[查看原文](https://zh.nuxtjs.org/guide)"
 ---
 
 https://zh.nuxtjs.org/guide

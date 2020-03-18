@@ -2,6 +2,8 @@
 title: "谷歌新发布的TWA：让你的PWA进入应用商店 - InfoQ"
 commentId: 568753944
 tags: android,published
+original_link: "https://www.infoq.cn/article/XTE9WzSL11iHmW*WBozi"
+summary: "[查看原文](https://www.infoq.cn/article/XTE9WzSL11iHmW*WBozi)"
 ---
 
 https://www.infoq.cn/article/XTE9WzSL11iHmW*WBozi

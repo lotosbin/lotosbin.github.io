@@ -2,6 +2,8 @@
 title: "jiahaog/nativefier: Make any web page a desktop application"
 commentId: 542399928
 tags: published
+original_link: "https://github.com/jiahaog/nativefier"
+summary: "[查看原文](https://github.com/jiahaog/nativefier)"
 ---
 
 https://github.com/jiahaog/nativefier

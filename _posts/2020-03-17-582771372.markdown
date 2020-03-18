@@ -2,6 +2,8 @@
 title: "Clean Frontend Architecture：整洁前端架构 | clean-frontend"
 commentId: 582771372
 tags: published
+original_link: "https://phodal.github.io/clean-frontend/"
+summary: "[查看原文](https://phodal.github.io/clean-frontend/)"
 ---
 
 https://phodal.github.io/clean-frontend/

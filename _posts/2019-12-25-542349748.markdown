@@ -2,6 +2,8 @@
 title: "今日诗词 - 一言API - 诗词实时智能推荐 - 今日诗词开放接口 - 今日诗词 API"
 commentId: 542349748
 tags: published
+original_link: "https://www.jinrishici.com/"
+summary: "[查看原文](https://www.jinrishici.com/)"
 ---
 
 https://www.jinrishici.com/

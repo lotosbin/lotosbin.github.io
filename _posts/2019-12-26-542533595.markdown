@@ -2,6 +2,8 @@
 title: "独立开发者"
 commentId: 542533595
 tags: published
+original_link: "https://indiehackers.net/"
+summary: "[查看原文](https://indiehackers.net/)"
 ---
 
 https://indiehackers.net/

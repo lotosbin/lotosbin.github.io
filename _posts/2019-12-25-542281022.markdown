@@ -2,6 +2,8 @@
 title: "Nestjs 框架教程（第一篇：简介）"
 commentId: 542281022
 tags: published
+original_link: "https://keelii.com/2019/07/03/nestjs-framework-tutorial-1/"
+summary: "[查看原文](https://keelii.com/2019/07/03/nestjs-framework-tutorial-1/)"
 ---
 
 https://keelii.com/2019/07/03/nestjs-framework-tutorial-1/
