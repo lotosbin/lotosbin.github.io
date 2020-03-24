@@ -1,0 +1,12 @@
+---
+title: "如何用 DDD 结合 TDD 的思想『分治』复杂问题？ - Phodal | Phodal - A Growth Engineer"
+commentId: 586785500
+tags: published
+original_link: "https://www.phodal.com/blog/use-ddd-tdd-resolve-problem/"
+summary: "[查看原文](https://www.phodal.com/blog/use-ddd-tdd-resolve-problem/)"
+---
+
+https://www.phodal.com/blog/use-ddd-tdd-resolve-problem/
+    
+[查看原文](https://www.phodal.com/blog/use-ddd-tdd-resolve-problem/)
+    
